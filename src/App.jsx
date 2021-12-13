@@ -10,15 +10,15 @@ function App() {
   return (
     <div class="container">
     <Cabecalho/>
-
-     <div class="container">
+    
+     <div>
      <CorpoN2/>
      <CorpoN/>
      <CorpoN/>
      <CorpoN/>
      </div>
 
-     <div class="container">
+     <div>
      <CorpoN2/>
      <CorpoN/>
      <CorpoN/>

@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.cabecalho{
+    background-color: rgb(38, 65, 44);
+    width: 100% ;
+    height: 175px;
+}
+
+.divisao{
+   background-color: rgb(97, 111, 101);
+   position: relative;
+   width: 80% ;
+   height: 150px;
+   top: 12px;
+   left: 10%;
+}
+
+.tituloSite{
+  color: white;
+  position: relative;
+  left: 30%;
+  top: 20px;
+}
+
+.subtituloSite{
+  color: white;
+  position: relative;
+  left: 22%;
+  top: 40px;
+}
+
+.rodape{
+  background-color: rgb(38, 65, 44);
+  width: 100% ;
+  height: 40px;
+}
+
+.tituloRodaPe{
+  color: white;
+  position: relative;
+  left: 32%;
+  top: 8px;
+}
